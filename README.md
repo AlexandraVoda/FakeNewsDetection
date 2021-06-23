@@ -2,8 +2,10 @@ Fake news detection
 ==============================
 
 With all the available technology and access to the internet information is easily accessible everywhere. This can also have negative impacts, one of which being the rapid spread of disinformation through fake news.  
+<br/>
 The aim of this project is to **provide an example of fake news detection** using several machine learning algorithms.
 For training I used a dataset that can be found on [Kaggle](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset). It contains **23 481 fake** and **21 417 true news articles**. The great majority of true news articles have been retrieved from [reuters.com](https://www.reuters.com/). Fake news data has been collected from various unreliable websites that have been labeled as such by [Politifact](https://www.politifact.com/), a website devoted to fact-checking.  
+<br/>
 Most of this dataset information lies in the political sphere and is mainly related to 2016 US election.
 ![True and fake wordclouds](images/fake_true_word_cloud.png)
 
