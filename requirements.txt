@@ -1,0 +1,8 @@
+# local package
+-e .
+
+# external requirements
+pandas
+wordcloud
+bs4
+nltk
